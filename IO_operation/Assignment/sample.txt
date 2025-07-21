@@ -1,0 +1,4 @@
+sample content =  Proud to be INDIANS.
+It contains multiples line
+LNCT is the best college of bhopal.
+End of file. Namaste
